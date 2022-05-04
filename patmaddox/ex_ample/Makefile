@@ -1,4 +1,5 @@
 PORTNAME= ex_ample
+CATEGORIES=patmaddox
 
 USE_GITHUB=yes
 GH_ACCOUNT=patmaddox
